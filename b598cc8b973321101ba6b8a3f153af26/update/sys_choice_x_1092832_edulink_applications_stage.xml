@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="stage" table="x_1092832_edulink_applications" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>stage</element>
+            <name>x_1092832_edulink_applications</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:51</sys_created_on>
+            <sys_id>227e0c03977321101ba6b8a3f153af3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>stage</sys_name>
+            <sys_package display_value="EduLink" source="x_1092832_edulink">b598cc8b973321101ba6b8a3f153af26</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EduLink">b598cc8b973321101ba6b8a3f153af26</sys_scope>
+            <sys_update_name>sys_choice_x_1092832_edulink_applications_stage</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:51</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Received</label>
+            <language>en</language>
+            <name>x_1092832_edulink_applications</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa7e0c03977321101ba6b8a3f153af3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:51</sys_updated_on>
+            <value>received</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Review – Admissions Committee</label>
+            <language>en</language>
+            <name>x_1092832_edulink_applications</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e67e0c03977321101ba6b8a3f153af3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:51</sys_updated_on>
+            <value>review_admissions_committee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Review – Graduate Faculty</label>
+            <language>en</language>
+            <name>x_1092832_edulink_applications</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>667e0c03977321101ba6b8a3f153af40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:51</sys_updated_on>
+            <value>review_graduate_faculty</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Review – Dean</label>
+            <language>en</language>
+            <name>x_1092832_edulink_applications</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e27e0c03977321101ba6b8a3f153af41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:51</sys_updated_on>
+            <value>review_dean</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Decision</label>
+            <language>en</language>
+            <name>x_1092832_edulink_applications</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>627e0c03977321101ba6b8a3f153af42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:51</sys_updated_on>
+            <value>decision</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
