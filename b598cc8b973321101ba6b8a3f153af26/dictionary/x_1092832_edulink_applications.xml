@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1ee9040f973321101ba6b8a3f153af1c" label="Applications" max_length="40" name="x_1092832_edulink_applications" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Additional Info" max_length="1040" name="additional_info" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Applicant Email" max_length="40" name="applicant_email" type="string"/>
+        <element label="Application Number" max_length="40" name="application_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Detail Description" max_length="1000" name="detail_description" type="string"/>
+        <element choice="1" label="Intake" max_length="40" name="intake" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fall" value="fall"/>
+                <element inactive_on_update="false" label="Spring" value="spring"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="2023" label="Intake Year" max_length="40" name="intake_year" type="string">
+            <choice>
+                <element inactive_on_update="false" label="2023" sequence="0" value="2023"/>
+                <element inactive_on_update="false" label="2024" sequence="1" value="2024"/>
+                <element inactive_on_update="false" label="2025" sequence="2" value="2025"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Reference Letter 1" max_length="40" name="reference_letter_1" type="file_attachment"/>
+        <element label="Reference Letter 2" max_length="40" name="reference_letter_2" type="file_attachment"/>
+        <element label="Reference Letter 3" max_length="40" name="reference_letter_3" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="Reviewer Comments" max_length="1000" name="reviewer_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element label="SOP" max_length="40" name="sop" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Stage" max_length="40" name="stage" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Received" sequence="0" value="received"/>
+                <element inactive_on_update="false" label="Review – Admissions Committee" sequence="1" value="review_admissions_committee"/>
+                <element inactive_on_update="false" label="Review – Graduate Faculty" sequence="2" value="review_graduate_faculty"/>
+                <element inactive_on_update="false" label="Review – Dean" sequence="3" value="review_dean"/>
+                <element inactive_on_update="false" label="Decision" sequence="4" value="decision"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Received" sequence="0" value="received"/>
+                <element inactive_on_update="false" label="Processing" sequence="1" value="processing"/>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+                <element inactive_on_update="false" label="Awaiting Info" sequence="4" value="awaiting_info"/>
+            </choice>
+        </element>
+        <element label="Transcript" max_length="40" name="transcript" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_4" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+    </element>
+</database>
