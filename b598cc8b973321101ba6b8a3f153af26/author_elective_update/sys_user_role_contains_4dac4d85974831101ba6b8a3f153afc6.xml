@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="x_1092832_edulink.admin" name="x_1092832_edulink.admin">1eb2d081978431101ba6b8a3f153af47</contains>
+        <role display_value="x_1092832_edulink.admission_committee" name="x_1092832_edulink.admission_committee">08d931d8970871101ba6b8a3f153af4e</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 16:25:18</sys_created_on>
+        <sys_id>4dac4d85974831101ba6b8a3f153afc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1092832_edulink.admin.x_1092832_edulink.admission_committee</sys_name>
+        <sys_package display_value="EduLink" source="x_1092832_edulink">b598cc8b973321101ba6b8a3f153af26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EduLink">b598cc8b973321101ba6b8a3f153af26</sys_scope>
+        <sys_update_name>sys_user_role_contains_4dac4d85974831101ba6b8a3f153afc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 16:25:18</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EduLink">b598cc8b973321101ba6b8a3f153af26</application>
+        <file_path/>
+        <instance_id>62cf1c3f1ba765dc699443f4bd4bcb7e</instance_id>
+        <instance_name>dev178361</instance_name>
+        <name>sys_user_role_contains_4dac4d85974831101ba6b8a3f153afc6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="x_1092832_edulink.admin" name="x_1092832_edulink.admin">1eb2d081978431101ba6b8a3f153af47</contains><role display_value="x_1092832_edulink.admission_committee" name="x_1092832_edulink.admission_committee">08d931d8970871101ba6b8a3f153af4e</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-13 16:25:18</sys_created_on><sys_id>4dac4d85974831101ba6b8a3f153afc6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1092832_edulink.admin.x_1092832_edulink.admission_committee</sys_name><sys_package display_value="EduLink" source="x_1092832_edulink">b598cc8b973321101ba6b8a3f153af26</sys_package><sys_policy/><sys_scope display_value="EduLink">b598cc8b973321101ba6b8a3f153af26</sys_scope><sys_update_name>sys_user_role_contains_4dac4d85974831101ba6b8a3f153afc6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-13 16:25:18</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>-1629754151</payload_hash>
+        <record_name>x_1092832_edulink.admin.x_1092832_edulink.admission_committee</record_name>
+        <reverted_from/>
+        <source>d3690ccb973321101ba6b8a3f153afc0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 16:25:18</sys_created_on>
+        <sys_id>81ac8d85974831101ba6b8a3f153af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189501237340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 16:25:18</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>c9ac8d852948311094d92cd51faf0824</update_guid>
+        <update_guid_history>c9ac8d852948311094d92cd51faf0824:-1629754151</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 16:28:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>0e96b03dec9a4eed82f9c490d9c72c71</sys_id>
+        <sys_metadata>4dac4d85974831101ba6b8a3f153afc6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1092832_edulink.admin.x_1092832_edulink.admission_committee</sys_name>
+        <sys_package display_value="EduLink" source="x_1092832_edulink">b598cc8b973321101ba6b8a3f153af26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EduLink">b598cc8b973321101ba6b8a3f153af26</sys_scope>
+        <sys_scope_delete display_value="">1af9b36c0dcb431088b766d184e77539</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_4dac4d85974831101ba6b8a3f153afc6</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_4dac4d85974831101ba6b8a3f153afc6">81ac8d85974831101ba6b8a3f153af25</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 16:28:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

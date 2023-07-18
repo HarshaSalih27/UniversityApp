@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="da7ec803977321101ba6b8a3f153afdb" sys_domain="global" table="x_1092832_edulink_applications" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de7ec803977321101ba6b8a3f153afde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1092832_edulink_applications" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afdb</sys_ui_form>
+            <sys_ui_section caption="Application" display_value="Application" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">312b084f973321101ba6b8a3f153af8a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da7ec803977321101ba6b8a3f153afdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1092832_edulink_applications" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afdb</sys_ui_form>
+            <sys_ui_section caption="Application Summary" display_value="Application Summary" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">967ec803977321101ba6b8a3f153afd8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d67ec803977321101ba6b8a3f153afe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1092832_edulink_applications" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afdb</sys_ui_form>
+            <sys_ui_section caption="Application Details" display_value="Application Details" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">567ec803977321101ba6b8a3f153afd9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d67ec803977321101ba6b8a3f153aff3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1092832_edulink_applications" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afdb</sys_ui_form>
+            <sys_ui_section caption="Supporting Documents" display_value="Supporting Documents" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">127ec803977321101ba6b8a3f153afda</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>167ec803977321101ba6b8a3f153aff7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1092832_edulink_applications" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afdb</sys_ui_form>
+            <sys_ui_section caption="Reviewer Comments" display_value="Reviewer Comments" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afda</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-17 08:54:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>efdb48da97c031101ba6b8a3f153af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1092832_edulink_applications" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afdb</sys_ui_form>
+            <sys_ui_section caption="Additional Info" display_value="Additional Info" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">d3db08da97c031101ba6b8a3f153afb6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-17 08:54:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1092832_edulink_applications</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-07 06:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da7ec803977321101ba6b8a3f153afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1092832_edulink_applications</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EduLink" source="x_1092832_edulink">b598cc8b973321101ba6b8a3f153af26</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EduLink">b598cc8b973321101ba6b8a3f153af26</sys_scope>
+            <sys_update_name>sys_ui_form_sections_da7ec803977321101ba6b8a3f153afdb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-07 06:45:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
