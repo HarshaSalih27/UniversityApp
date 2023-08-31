@@ -45,44 +45,58 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 09:23:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc62a583971431101ba6b8a3f153af0c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1092832_edulink_applications" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afdb</sys_ui_form>
+            <sys_ui_section caption="Program Details" display_value="Program Details" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">34626583971431101ba6b8a3f153afb1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 09:23:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-07-07 06:45:50</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d67ec803977321101ba6b8a3f153aff3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1092832_edulink_applications" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afdb</sys_ui_form>
             <sys_ui_section caption="Supporting Documents" display_value="Supporting Documents" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">127ec803977321101ba6b8a3f153afda</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-07 06:45:50</sys_updated_on>
+            <sys_updated_on>2023-08-01 09:23:51</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-07-07 06:45:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>167ec803977321101ba6b8a3f153aff7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1092832_edulink_applications" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afdb</sys_ui_form>
             <sys_ui_section caption="Reviewer Comments" display_value="Reviewer Comments" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afda</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-07 06:45:51</sys_updated_on>
+            <sys_updated_on>2023-08-01 09:23:51</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-07-17 08:54:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>efdb48da97c031101ba6b8a3f153af53</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1092832_edulink_applications" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">da7ec803977321101ba6b8a3f153afdb</sys_ui_form>
             <sys_ui_section caption="Additional Info" display_value="Additional Info" name="x_1092832_edulink_applications" sys_domain="global" view="Default view">d3db08da97c031101ba6b8a3f153afb6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-17 08:54:42</sys_updated_on>
+            <sys_updated_on>2023-08-01 09:23:52</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1092832_edulink_applications</name>
