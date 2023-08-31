@@ -17,11 +17,38 @@
                 <element inactive_on_update="false" label="2025" sequence="2" value="2025"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Program" max_length="40" name="program" type="string">
+            <choice>
+                <element inactive_on_update="false" label="MS in Computer Science" sequence="0" value="ms_in_computer_science"/>
+                <element inactive_on_update="false" label="MS in Electrical" sequence="1" value="ms_in_electrical"/>
+                <element inactive_on_update="false" label="MS in Mechanical" sequence="2" value="ms_in_mechanical"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="program" dependent_on_field="program" label="Program Specialization" max_length="40" name="program_specialization" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="ms_in_computer_science" inactive_on_update="false" label="Cyber Security" sequence="0" value="cyber_security"/>
+                <element dependent_value="ms_in_computer_science" inactive_on_update="false" label="Data Science" sequence="1" value="data_science"/>
+                <element dependent_value="ms_in_computer_science" inactive_on_update="false" label="Artical Intelligence" sequence="2" value="artical_intelligence"/>
+                <element dependent_value="ms_in_mechanical" inactive_on_update="false" label="Mechatronics" sequence="3" value="mechatronics"/>
+                <element dependent_value="ms_in_mechanical" inactive_on_update="false" label="Nanotechnology" sequence="4" value="nanotechnology"/>
+                <element dependent_value="ms_in_mechanical" inactive_on_update="false" label="Robotics" sequence="5" value="robotics"/>
+                <element dependent_value="ms_in_electrical" inactive_on_update="false" label="Photonics" sequence="6" value="photonics"/>
+                <element dependent_value="ms_in_electrical" inactive_on_update="false" label="Systems Power and Energy" sequence="7" value="systems_power_and_energy"/>
+                <element dependent_value="ms_in_electrical" inactive_on_update="false" label="Power Systems and Power Electronics" sequence="8" value="power_systems_and_power_electronics"/>
+            </choice>
+        </element>
         <element label="Reference Letter 1" max_length="40" name="reference_letter_1" type="file_attachment"/>
         <element label="Reference Letter 2" max_length="40" name="reference_letter_2" type="file_attachment"/>
         <element label="Reference Letter 3" max_length="40" name="reference_letter_3" type="file_attachment"/>
         <element attributes="edge_encryption_enabled=true" label="Reviewer Comments" max_length="1000" name="reviewer_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Scholarship" max_length="40" name="scholarship" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="short_description" type="string"/>
         <element label="SOP" max_length="40" name="sop" type="file_attachment"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Stage" max_length="40" name="stage" type="string">
