@@ -28,7 +28,9 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" dependent="program" dependent_on_field="program" label="Program Specialization" max_length="40" name="program_specialization" type="string" use_dependent_field="true">
             <choice>
+                <element inactive_on_update="false" label="Artificial Intelligence" sequence="0" value="Artificial Intelligence"/>
                 <element dependent_value="ms_in_computer_science" inactive_on_update="false" label="Cyber Security" sequence="0" value="cyber_security"/>
+                <element inactive_on_update="false" label="Data Security" sequence="0" value="Data Security"/>
                 <element dependent_value="ms_in_computer_science" inactive_on_update="false" label="Data Science" sequence="1" value="data_science"/>
                 <element dependent_value="ms_in_computer_science" inactive_on_update="false" label="Artical Intelligence" sequence="2" value="artical_intelligence"/>
                 <element dependent_value="ms_in_mechanical" inactive_on_update="false" label="Mechatronics" sequence="3" value="mechatronics"/>
@@ -54,6 +56,9 @@
         <element attributes="edge_encryption_enabled=true" choice="1" label="Stage" max_length="40" name="stage" type="string">
             <choice>
                 <element inactive_on_update="false" label="Received" sequence="0" value="received"/>
+                <element inactive_on_update="false" label="Review - Admission Committee" sequence="0" value="Review - Admission Committee"/>
+                <element inactive_on_update="false" label="Review - Dean" sequence="0" value="Review - Dean"/>
+                <element inactive_on_update="false" label="Review - Graduate Faculty" sequence="0" value="Review - Graduate Faculty"/>
                 <element inactive_on_update="false" label="Review – Admissions Committee" sequence="1" value="review_admissions_committee"/>
                 <element inactive_on_update="false" label="Review – Graduate Faculty" sequence="2" value="review_graduate_faculty"/>
                 <element inactive_on_update="false" label="Review – Dean" sequence="3" value="review_dean"/>
